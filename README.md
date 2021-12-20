@@ -59,17 +59,13 @@ Thus the program to find the LU Decomposition of a matrix is written and verifie
 4.Stop the program.
 
 ## Program:
-
+```
 /*
-
-'''
-Program to solve a matrix using LU decomposition.
-Developed by:A.Ruchitha Reddy
-RegisterNumber:21005032 
-
-'''
-
+Program to find the LU Decomposition of a matrix.
+Developed by:A.Ruchitha Reddy 
+RegisterNumber:2105032 
 */
+```
 
 # To print X matrix (solution to the equations)
 
